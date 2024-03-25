@@ -1,0 +1,23 @@
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\bin\Debug\net6.0-windows\BASIC LOG IN TOM.exe
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\bin\Debug\net6.0-windows\BASIC LOG IN TOM.deps.json
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\bin\Debug\net6.0-windows\BASIC LOG IN TOM.runtimeconfig.json
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\bin\Debug\net6.0-windows\BASIC LOG IN TOM.dll
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\bin\Debug\net6.0-windows\BASIC LOG IN TOM.pdb
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC LOG IN TOM.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC_LOG_IN_TOM.Form1.resources
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC_LOG_IN_TOM.Form2.resources
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC_LOG_IN_TOM.Properties.Resources.resources
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC LOG IN TOM.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC LOG IN TOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC LOG IN TOM.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC LOG IN TOM.AssemblyInfo.cs
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC LOG IN TOM.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC LO.7A2639FC.Up2Date
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC LOG IN TOM.dll
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\refint\BASIC LOG IN TOM.dll
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC LOG IN TOM.pdb
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\BASIC LOG IN TOM.genruntimeconfig.cache
+C:\Users\PC\source\repos\BASIC LOG IN TOM\BASIC LOG IN TOM\obj\Debug\net6.0-windows\ref\BASIC LOG IN TOM.dll
